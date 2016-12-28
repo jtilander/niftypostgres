@@ -1,6 +1,4 @@
-# NiftyCelery
+# NiftyPostgres
 
-A small customization to Celery worker image that:
+A small custom postgresql database container.
 
-* Sets the default broker to redis
-* Changes the default userdir to /app so that we can have one standard export container
